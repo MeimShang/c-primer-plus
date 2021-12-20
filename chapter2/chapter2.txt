@@ -1,0 +1,29 @@
+1. 函数
+
+2. 没有遵循C语言的规则出现报错导致程序不能运行，这样的错误称为语法错误。 Bugs frustrated be can;
+函数体使用圆括号代替花括号，多个变量声明时写成int n ,int n1, int n2;
+
+3.语义错误指的是语句符合语法规则，但没有运行出正确的结果。 Scornful derivatives sing greenly;
+
+4. 第一行include 之前要加# ； 第二行函数声明花括号应改为圆括号并且注释符号结尾符写错了；第三行函数主体使用花括号
+而不是圆括号；第五行语句结束要加分号；第六行去掉冒号；printf 里要加引号；程序结束要有花括号
+
+5.a.Baa Baa Black sheep.Have you any wool?
+b.Begone!
+O creature of lard!
+c.what?
+No/nfish?
+d.2+2=4
+
+6.int char
+
+7.先定义两个变量，并分别赋值为3020和350，将整个输出语句当做参数写进printf语句中，并采用两个占位符%d标明变量位置，
+将变量写在引号外。
+int words = 3250;
+int lines = 350;
+printf("There arw %d words and %d lines. \n",words,lines);
+
+8. 执行完第七行，a=5,b=2;执行完第八行 a5,b=5；执行完第九行 a=5,b=5
+
+9.执行完第七行，x=10,y=5;执行完第八行 x=10,y=15；执行完第九行 x=150,y=15
+
